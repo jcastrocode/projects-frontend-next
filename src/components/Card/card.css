@@ -1,0 +1,19 @@
+.Card {
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    padding: 1rem;
+    text-align: left;
+    color: #e1e1e1;
+    text-decoration: none;
+    width: 300px;
+    transition: color 0.15s ease, border-color 0.15s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.link-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
